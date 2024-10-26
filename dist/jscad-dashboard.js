@@ -1,5 +1,5 @@
-import {color, connectors, geometry, math, primitives, text, utils, booleans, expansions, extrusions, hulls, measurements, transforms } from "jscad.js"
-
+import {color, connectors, geometry, math, primitives, text, utils} from "./jscad.js"
+import {booleans, expansions, extrusions, hulls, measurements, transforms} from "./jscad.js"
 
 alert(color);
 
